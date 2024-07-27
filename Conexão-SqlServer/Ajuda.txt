@@ -1,0 +1,9 @@
+#Criando o ambiente virtual, na pasta corrente
+
+python -m venv ./ 
+
+#Ativando o ambiente virtual
+ .\Scripts\Activate.ps1
+
+#Instalando o pyodbc
+ pip install pyodbc
